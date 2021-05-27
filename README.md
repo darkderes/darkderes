@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @darkderes
-
-Software Developer Chileno .
+Jorge Darderes
+Ingeniero en desarrollo de software Exportadora Anakena Ltda - Desarrollador Full-Stack Freelance
