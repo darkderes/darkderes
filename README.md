@@ -15,15 +15,15 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 
   ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub de Jorge](https://github-readme-stats.vercel.app/api?username=jorge-darderes&show_icons=true&theme=radical)
+![Estadísticas de GitHub de Jorge](https://github-readme-stats.vercel.app/api?username=darkderes&show_icons=true&theme=radical)
 
 ## 🔥 Lenguajes más usados
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-darderes&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=darkderes&layout=compact&theme=radical)
 
 ## 🏆 Puntuación de contribuciones
 
-![Puntuación de contribuciones](https://github-profile-trophy.vercel.app/?username=jorge-darderes&theme=radical)
+![Puntuación de contribuciones](https://github-profile-trophy.vercel.app/?username=darkderes&theme=radical)
 
 
 ## Contacto
