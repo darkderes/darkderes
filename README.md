@@ -11,7 +11,19 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 - **Bases de Datos:** MySQL, PostgreSQL, MongoDB, SQL SERVER
 - **Control de Versiones:** Git, GitHub
 - **Cloud : Azure,Google Cloud, SupaBase
-- **Otras Herramientas:** VS Code , Pycharm, Android Studio , Visual Studio 
+- **Otras Herramientas:** VS Code , Pycharm, Android Studio , Visual Studio
+
+  ## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub de Jorge](https://github-readme-stats.vercel.app/api?username=jorge-darderes&show_icons=true&theme=radical)
+
+## 🔥 Lenguajes más usados
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-darderes&layout=compact&theme=radical)
+
+## 🏆 Puntuación de contribuciones
+
+![Puntuación de contribuciones](https://github-profile-trophy.vercel.app/?username=jorge-darderes&theme=radical)
 
 
 ## Contacto
